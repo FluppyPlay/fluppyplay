@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Vítej na mojí stránce
 
 You can use the [editor on GitHub](https://github.com/FluppyPlay/fluppyplay/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
